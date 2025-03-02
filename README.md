@@ -1,5 +1,8 @@
 # secure-containerization
 
+> 🚨 In today's cloud-native world, **speed without security is a threat**.  
+> With this practical session, you're not just learning how to deploy apps — you're learning how to **secure them from day one**.
+
 ## Event Summary
 **"Secure Containerization: CI/CD Deployment and Management with Azure Container Apps"**
 A beginner-friendly, hands-on practical session focused on **building**, **containerizing**, and **deploying** applications using Docker, Azure DevOps, and Azure Container Apps while integrating security best practices into the CI/CD pipeline.
@@ -48,5 +51,7 @@ very important!
 6. [Introduction to Docker containers](https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/?wt.mc_id=studentamb_387261)
 
 ![mlsa azure event (1)](https://github.com/user-attachments/assets/c62e288a-5da3-495f-8f79-405a2b311ac5)
+
+> Key Takeaway: Security is NOT an afterthought — it's built into the pipeline from Day 1 🔐
 
 prepared by [ronney otieno](https://www.linkedin.com/in/ronney-otieno/) . [cloud-security-blogs](https://securecloudwithronney.hashnode.dev/)

@@ -19,6 +19,8 @@ Without security in the software development process, businesses risk:
 - ❌ Delayed product releases
 
 ![image](https://github.com/user-attachments/assets/8061033d-264f-439e-9cf5-a82ef2848f97)
+![image](https://github.com/user-attachments/assets/ab989682-f847-4813-98ba-19325de3f0be)
+
 
 ## 🔑 Key Highlights:
 - Introduction to Containerization and why it's essential in modern application development.

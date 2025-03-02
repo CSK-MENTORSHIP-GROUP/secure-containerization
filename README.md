@@ -12,7 +12,7 @@ In today's fast-paced digital world, businesses need to deliver applications fas
 
 Modern applications often consist of multiple services (microservices) running across different environments — making it harder to maintain consistency, security, and scalability.
 
-**This is where containerization + CI/CD + cloud security come in.**
+> **This is where containerization + CI/CD + cloud security come in.**
 ### Why This Matters to Every Developer & Organization 🚨
 Without security in the software development process, businesses risk:
 - ❌ Data breaches

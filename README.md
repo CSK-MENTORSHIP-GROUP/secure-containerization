@@ -53,6 +53,9 @@ very important!
 4. [Build and store container images with Azure Container Registry](https://learn.microsoft.com/en-us/training/modules/build-and-store-container-images/?wt.mc_id=studentamb_387261)
 5. [Deploy and run a containerized web app with Azure App Service](https://learn.microsoft.com/en-us/training/modules/deploy-run-container-app-service/?wt.mc_id=studentamb_387261)
 6. [Introduction to Docker containers](https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/?wt.mc_id=studentamb_387261)
+7. [Configure the Microsoft Security DevOps GitHub action](https://learn.microsoft.com/en-us/azure/defender-for-cloud/github-action/?wt.mc_id=studentamb_387261)
+8. [DevOps Security Workbook](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/devops-security-workbook/3637662/?wt.mc_id=studentamb_387261)
+9. [Microsoft Defender for Cloud DevOps security](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction/?wt.mc_id=studentamb_387261)
 
 ![mlsa azure event (1)](https://github.com/user-attachments/assets/c62e288a-5da3-495f-8f79-405a2b311ac5)
 

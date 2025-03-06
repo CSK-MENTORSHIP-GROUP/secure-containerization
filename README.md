@@ -2,6 +2,7 @@
 
 > 🚨 In today's cloud-native world, **speed without security is a threat**.  
 > With this practical session, you're not just learning how to deploy apps — you're learning how to **secure them from day one**.
+> [check out this step by step blog](https://securecloudwithronney.hashnode.dev/deploying-to-azure-container-apps)
 
 ![diagram-export-03-03-2025-23_29_08](https://github.com/user-attachments/assets/9672e94b-9e3e-4c28-84d2-dcc9154ea14e)
 
